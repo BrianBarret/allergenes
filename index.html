@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=yes" />
+  <meta name="theme-color" content="#1769aa" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Allergènes – Restauration scolaire</title>
+</head>
+<body>
+  <div id="loader">Chargement…</div>
+
+  <header>
+    <div>
+      <h1>Allergènes</h1>
+      <small>Restauration scolaire</small>
+    </div>
+    <span id="status">Prêt</span>
+  </header>
+
+  <main id="app"></main>
+
+  <nav id="bottom-nav">
+    <button data-view="dashboard" class="active">🏠<br />Accueil</button>
+    <button data-view="aliments">🍎<br />Aliments</button>
+    <button data-view="recettes">📝<br />Recettes</button>
+    <button data-view="menus">📅<br />Menus</button>
+    <button data-view="sauvegarde">💾<br />Sauvegarde</button>
+  </nav>
+
+  <script src="app.js"></script>
+</body>
+</html>

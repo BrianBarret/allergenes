@@ -1,0 +1,17 @@
+[
+  {
+    "id": "rec-1",
+    "nom": "Steak haché frites",
+    "ingredients": ["steak-hach", "frites"]
+  },
+  {
+    "id": "rec-2",
+    "nom": "Blanquette de veau",
+    "ingredients": ["blanquette-de-veau", "riz"]
+  },
+  {
+    "id": "rec-3",
+    "nom": "Salade composée",
+    "ingredients": ["salade-verte", "tomates", "concombre", "vinaigrette"]
+  }
+]

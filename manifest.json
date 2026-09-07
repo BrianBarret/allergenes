@@ -1,0 +1,10 @@
+{
+  "name": "Allergènes – Restauration scolaire",
+  "short_name": "Allergènes",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#1769aa",
+  "lang": "fr",
+  "icons": []
+}

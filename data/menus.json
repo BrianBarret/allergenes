@@ -1,0 +1,22 @@
+[
+  {
+    "id": "m-1",
+    "nom": "Semaine du 7 septembre",
+    "jours": [
+      {
+        "jour": "Lundi",
+        "entree": "carottes-r-p-es-vinaigrette",
+        "plat": "steak-hach-pan",
+        "garniture": "frites",
+        "dessert": "compote-de-pommes"
+      },
+      {
+        "jour": "Mardi",
+        "entree": "salade-verte",
+        "plat": "blanquette-de-veau",
+        "garniture": "riz",
+        "dessert": "yaourt-aux-fruits"
+      }
+    ]
+  }
+]
